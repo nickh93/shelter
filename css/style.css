@@ -1,0 +1,63 @@
+img {
+  width: 300px;
+  height: 300px;
+  margin: 50px;
+}
+
+.sharkcat {
+  width: 400px;
+  float: left;
+  margin: 10px;
+  background-color:#59b300;
+}
+
+.gay-dog {
+  width: 400px;
+  float: left;
+  margin: 10px;
+  background-color:#b366ff;
+}
+
+.pugorrila {
+  width: 400px;
+  float: left;
+  margin: 10px;
+  background-color:#ff8c1a;
+}
+
+.americahorse {
+  width: 400px;
+  float: left;
+  margin: 10px;
+  background-color:#4d79ff;
+}
+
+.americahorse p {
+ font-family: fantasy;
+ margin: 50px;
+}
+
+.pugorrila p {
+ font-family: monospace;
+ margin: 50px;
+}
+
+.gay-dog p {
+ font-family: sans-serif;
+ margin: 50px;
+}
+
+.sharkcat p {
+ font-family: cursive;
+ margin: 50px;
+}
+
+.all {
+  display:block;
+  margin-left: auto;
+  margin-right:auto;
+}
+
+body {
+  background-color: #5accf2;
+}
